@@ -1,89 +1,19 @@
 [
-  {
-    "name": "زينيتسو",
-    "img": "https://files.catbox.moe/d7440r.jpeg"
-  },
-  {
-    "name": "دوما",
-    "img": "https://files.catbox.moe/9ep2u3.jpeg"
-  },
-  {
-    "name": "اينوسكي",
-    "img": "https://files.catbox.moe/md04lq.png"
-  },
-  {
-     "name": "نيزكو",
-    "img": "https://files.catbox.moe/pq1ol6.jpeg"
-  },
-  {
-        "name": "كاكاشي",
-    "img": "https://files.catbox.moe/tpzt4y.jpeg"
-  },
-  {
-        "name": "رينغوكو",
-    "img": "https://files.catbox.moe/e9omjk.jpeg"
-  },
-  {
-        "name": "غون",
-    "img": "https://files.catbox.moe/nzyjcd.jpeg"
-  },
-  {
-        "name": "ايرين",
-    "img": "https://files.catbox.moe/hjqvs8.jpeg"
-  },
-  {
-        "name": "https://files.catbox.moe/ob20sc.jpeg",
-    "img": "غون"
-  },
-  {
-        "name": "ليفاي",
-    "img": "https://files.catbox.moe/hjqvs8.jpeg"
-  },
-  {
-      "name": "اكازا",
-    "img": "https://files.catbox.moe/slbdq0.jpeg"
-  },
-  {
-
-     "name": "اوباناي",
-    "img": "https://files.catbox.moe/pufcn6.jpeg"
-  },
-  {
-
-     "name": "ميتسوري",
-    "img": "https://files.catbox.moe/iq6l8f.jpeg"
-  },
-  {
-
-     "name": "كاناو",
-    "img": "https://files.catbox.moe/wfaj52.jpeg"
-  },
-  {
-
-     "name": "تانجيرو",
-    "img": "https://files.catbox.moe/9njkyh.png"
-  },
-  {
-
-     "name": "ساسكي",
-    "img": "https://files.catbox.moe/6bl7k0.jpeg"
-  },
-  {
-
-     "name": "ناروتو",
-    "img": "https://files.catbox.moe/v312bs.jpeg"
-  },
-  {
-
-     "name": "سوكونا",
-    "img": "https://files.catbox.moe/q7catc.jpeg"
-  },
-  {
-
-     "name": "اكازا",
-    "img": "https://files.catbox.moe/slbdq0.jpeg"
-  },
-  {
-
-    
+  { "name": "زينيتسو", "img": "https://files.catbox.moe/d7440r.jpeg" },
+  { "name": "دوما", "img": "https://files.catbox.moe/9ep2u3.jpeg" },
+  { "name": "اينوسكي", "img": "https://files.catbox.moe/md04lq.png" },
+  { "name": "نيزكو", "img": "https://files.catbox.moe/pq1ol6.jpeg" },
+  { "name": "كاكاشي", "img": "https://files.catbox.moe/tpzt4y.jpeg" },
+  { "name": "رينغوكو", "img": "https://files.catbox.moe/e9omjk.jpeg" },
+  { "name": "غون", "img": "https://files.catbox.moe/nzyjcd.jpeg" },
+  { "name": "ايرين", "img": "https://files.catbox.moe/hjqvs8.jpeg" },
+  { "name": "ليفاي", "img": "https://files.catbox.moe/hjqvs8.jpeg" },
+  { "name": "اكازا", "img": "https://files.catbox.moe/slbdq0.jpeg" },
+  { "name": "اوباناي", "img": "https://files.catbox.moe/pufcn6.jpeg" },
+  { "name": "ميتسوري", "img": "https://files.catbox.moe/iq6l8f.jpeg" },
+  { "name": "كاناو", "img": "https://files.catbox.moe/wfaj52.jpeg" },
+  { "name": "تانجيرو", "img": "https://files.catbox.moe/9njkyh.png" },
+  { "name": "ساسكي", "img": "https://files.catbox.moe/6bl7k0.jpeg" },
+  { "name": "ناروتو", "img": "https://files.catbox.moe/v312bs.jpeg" },
+  { "name": "سوكونا", "img": "https://files.catbox.moe/q7catc.jpeg" }
 ]
